@@ -7,7 +7,7 @@ import java.net.URL;
 public class RestClient {
     public static void main(String[] args) {
         try {
-            // Create a URL object with the API endpoint
+            // Creat a URL object with the API endpoint
             URL url = new URL("https://api.publicapis.org/entries");
             
             // Open     a connection to the URL
